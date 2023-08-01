@@ -1,6 +1,6 @@
 ## **💁‍♂️ Olá, Eu sou o `Roycy Eduardo`!**
 
-- 🔭 **Atualmente trabalho como Full-Stack**
+- 🔭 **Full-Stack**
 - 📚 **Estudando PHP**
 
 <div>
