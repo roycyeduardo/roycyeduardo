@@ -45,8 +45,3 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
----
-
-### 🐍 Contribuições
-![Snake animation](https://github.com/roycyeduardo/roycyeduardo/blob/output/github-user-contribution.svg)
