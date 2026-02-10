@@ -6,15 +6,6 @@ Desenvolvedor Full-Stack apaixonado por criar soluções robustas e eficientes. 
 
 ---
 
-<p align="left">
-    <a href="https://github.com/roycyeduardo">
-        <img width="48%" height="170px" src="https://github-readme-stats.vercel.app/api?username=roycyeduardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Roycy Eduardo"/>
-        <img width="48%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycyeduardo&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas por Roycy Eduardo"/>
-    </a>
-</p>
-
----
-
 ## Tecnologias
 
 ### Front-end
