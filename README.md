@@ -1,59 +1,56 @@
-# Roycy Eduardo | Full-Stack Developer
+# Roycy Eduardo Shimada Arnoni
 
-## Sobre Mim
+### Full-Stack Developer | Estudante de Engenharia da Computação
 
-Desenvolvedor Full-Stack apaixonado por criar soluções robustas e eficientes. Experiência em desenvolvimento web moderno e aplicações desktop, com foco em entregar produtos de alta qualidade. Atualmente, aprofundando meus conhecimentos em arquitetura de software e sistemas através da graduação em Engenharia da Computação.
-
----
-
-## Tecnologias
-
-### Front-end
-
-<p align="left">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
-
-### Back-end
-
-<p align="left">
-    <img src="https://img.shields.io/badge/Delphi-8C4DFF?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi">
-    <img src="https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</p>
-
-### Banco de Dados
-
-<p align="left">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-### Design & Multimídia
-
-<p align="left">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop">
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
-    <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro">
-</p>
+Desenvolvedor de software apaixonado por transformar ideias em soluções digitais.
+Experiência no desenvolvimento e manutenção de sistemas, aplicações web e desktop, utilizando tecnologias modernas e soluções eficientes.
 
 ---
 
-## Conecte-se comigo
+## 🛠️ Tecnologias
+
+| Categoria | Tecnologias |
+|---|---|
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=js,python,php" height="35" alt="JavaScript, Python e PHP"> <img src="https://img.shields.io/badge/Delphi-8C4DFF?style=flat-square&logo=delphi&logoColor=white" height="35" alt="Delphi"> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite" height="35" alt="HTML, CSS, Bootstrap, React e Vite"> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="35" alt="Node.js e Express"> |
+| **Banco de Dados** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="35" alt="MySQL e MongoDB"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="35" alt="SQL Server"> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="35" alt="Git, GitHub e VS Code"> |
+| **Design & Multimídia** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" height="35" alt="Figma, Photoshop, Illustrator e Premiere Pro"> |
+
+---
+
+## 🚀 Meus Projetos
+
+### 💪 Cofitness
+Plataforma SaaS para personal trainers, com gerenciamento de alunos, fichas de treino e acompanhamento de métricas.
+
+🔗 [Acessar projeto](https://cofitness.discloud.app)
+
+### 💼 Codex RE
+Empresa de tecnologia focada em desenvolvimento de sistemas, sites e soluções digitais.
+
+---
+
+## 📚 Formação
+
+🎓 **Engenharia da Computação | UNIARA**
+<sup>(02/2024 - Cursando.)</sup>
+
+💻 **Técnico em Informática para Internet | ETEC**
+
+---
+
+## 📫 Contato
 
 <p align="left">
-    <a href="https://instagram.com/roycyofc" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:eduardo.roycy@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/roycyeduardo" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+  <a href="https://www.linkedin.com/in/roycyeduardo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:eduardo.roycy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/roycyofc">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
